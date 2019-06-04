@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotEcho", "BotEcho\BotEcho.csproj", "{372E098C-B481-49E7-80CE-7D8D13760C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372E098C-B481-49E7-80CE-7D8D13760C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372E098C-B481-49E7-80CE-7D8D13760C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372E098C-B481-49E7-80CE-7D8D13760C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372E098C-B481-49E7-80CE-7D8D13760C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC5E6A58-0E57-45E0-B60C-0BED09543CDC}
+	EndGlobalSection
+EndGlobal

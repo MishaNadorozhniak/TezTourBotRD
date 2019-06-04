@@ -1,0 +1,15 @@
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\bin\Debug\netcoreapp2.1\BotEcho.deps.json
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\bin\Debug\netcoreapp2.1\BotEcho.runtimeconfig.json
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\bin\Debug\netcoreapp2.1\BotEcho.runtimeconfig.dev.json
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\bin\Debug\netcoreapp2.1\BotEcho.dll
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\bin\Debug\netcoreapp2.1\BotEcho.pdb
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.csproj.CoreCompileInputs.cache
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.RazorAssemblyInfo.cache
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.RazorAssemblyInfo.cs
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.AssemblyInfoInputs.cache
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.AssemblyInfo.cs
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.RazorTargetAssemblyInfo.cache
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.dll
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.pdb
+C:\Users\Misha Nadorozhniak\source\repos\BotEcho\BotEcho\obj\Debug\netcoreapp2.1\BotEcho.csprojAssemblyReference.cache
